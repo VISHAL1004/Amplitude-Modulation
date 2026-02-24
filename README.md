@@ -104,7 +104,8 @@ Output Waveform
 
 TABULATION:
 
-<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/2035f7e6-3d1a-4c5e-87a3-05cada264076" />
+![WhatsApp Image 2026-02-24 at 4 26 11 PM](https://github.com/user-attachments/assets/820d231e-2b5a-401f-bacc-b9fe1045913b)
+
 
 
 
